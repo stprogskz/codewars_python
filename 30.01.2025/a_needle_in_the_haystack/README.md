@@ -11,7 +11,7 @@
 ## Пример (Вход -> Выход)
 
 ```
-['hay', 'junk', 'hay', 'hay', 'moreJunk', 'needle', 'randomJunk'] --> "found the needle at position 5"
+['hay', 'junk', 'hay', 'hay', 'moreJunk', 'needle', 'randomJunk'] --> 'found the needle at position 5'
 ```
 
 Примечание: в **COBOL** это должно возвращать `'found the needle at position 6'`
